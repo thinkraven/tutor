@@ -11,6 +11,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		// change1
 		//asd
 		// change2
+		// change 7
 	}
 
 }
