@@ -9,6 +9,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(TutorApplication.class);
 		// change1
+		// change2
 	}
 
 }
