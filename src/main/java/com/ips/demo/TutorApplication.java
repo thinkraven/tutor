@@ -12,6 +12,7 @@ public class TutorApplication {
 		int b=30;
 		int c=40;
 		int x=100;
+		int y=200;
 		// change3
 		// change5
 		//change4
