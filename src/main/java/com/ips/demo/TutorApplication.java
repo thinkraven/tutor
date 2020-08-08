@@ -9,6 +9,10 @@ public class TutorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TutorApplication.class, args);
 //		cgcggvh;
+		int a=20;
+		int b=30;
+		int c=40;
+		 
 		// change3
 		// change5
 		//change4
