@@ -10,6 +10,7 @@ public class TutorApplication {
 		SpringApplication.run(TutorApplication.class, args);
 		int a=20;
 		int b=30;
+		int c=40;
 		// change3
 		// change5
 		//change4
