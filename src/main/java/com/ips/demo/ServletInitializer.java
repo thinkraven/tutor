@@ -10,6 +10,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 //		fghfghgfh;
 		String a="This is change by Dk.";
 		int aa=30;
+		int s=20;
 		int d=50;
 		int dd=500;
 		return application.sources(TutorApplication.class);
